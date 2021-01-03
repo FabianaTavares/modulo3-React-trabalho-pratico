@@ -62,6 +62,7 @@ Vocês devem desempenhar as seguintes atividades:
    b. Percentual total;
    c. Se foi aprovado pela média;
    d. Se foi aprovado pelo percentual total.
+
 5. As imagens abaixo ilustram possíveis interfaces e situações diversas da aplicação:
 
 ![alt text](https://github.com/FabianaTavares/modulo3-React-trabalho-pratico/blob/main/public/imagem_trabalho.PNG)
