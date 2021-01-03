@@ -68,9 +68,10 @@ Vocês devem desempenhar as seguintes atividades:
 
 ## Dicas e sugestões de implementação
 
-▪ A aplicação que implementei só possui um item no objeto de this.state ➔ grades.
-▪ Na minha implementação, grades representa um array de objetos com id,
-descrição e nota. "Faça o computador trabalhar para você".
+    ▪ A aplicação que implementei só possui um item no objeto de this.state ➔ grades.
+    ▪ Na minha implementação, grades representa um array de objetos com id,
+    descrição e nota. "Faça o computador trabalhar para você".
+
 ▪ Utilizei o projeto base que foi fornecido, que já possui o Materialize CSS.
 ▪ Monte os inputs em loop utilizando array.map.
 ▪ Além de App, criei os seguintes componentes: <Grades />, <Grade /> e
