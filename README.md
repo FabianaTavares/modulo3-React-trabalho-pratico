@@ -58,10 +58,10 @@ Vocês devem desempenhar as seguintes atividades:
    positiva (ex: verde). Se as notas forem abaixo de 60, exiba-as com uma cor
    negativa (ex: vermelho).
 4. O aluno deve calcular:
-   ▪ Nota total;
-   ▪ Percentual total;
-   ▪ Se foi aprovado pela média;
-   ▪ Se foi aprovado pelo percentual total.
+   a. Nota total;
+   b. Percentual total;
+   c. Se foi aprovado pela média;
+   d. Se foi aprovado pelo percentual total.
 5. As imagens abaixo ilustram possíveis interfaces e situações diversas da aplicação:
 
 ![alt text](https://github.com/FabianaTavares/modulo3-React-trabalho-pratico/blob/main/public/imagem_trabalho.PNG)
