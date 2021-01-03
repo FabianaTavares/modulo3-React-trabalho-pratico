@@ -69,13 +69,13 @@ Vocês devem desempenhar as seguintes atividades:
 
 ## Dicas e sugestões de implementação
 
-    ▪ A aplicação que implementei só possui um item no objeto de this.state ➔ grades.
-    ▪ Na minha implementação, grades representa um array de objetos com id,
-    descrição e nota. "Faça o computador trabalhar para você".
-    ▪ Utilizei o projeto base que foi fornecido, que já possui o Materialize CSS.
-    ▪ Monte os inputs em loop utilizando array.map.
-    ▪ Além de App, criei os seguintes componentes: <Grades />, <Grade /> e <Calculations />.
+- A aplicação que implementei só possui um item no objeto de this.state ➔ grades.
+- Na minha implementação, grades representa um array de objetos com id,
+  descrição e nota. "Faça o computador trabalhar para você".
+- Utilizei o projeto base que foi fornecido, que já possui o Materialize CSS.
+- Monte os inputs em loop utilizando array.map.
+- Além de App, criei os seguintes componentes: <Grades />, <Grade /> e <Calculations />.
 
-    ▪ Faça com que os inputs sejam do tipo number, delimitando os valores para o mínimo de 0 e máximo de 100. Assim, o usuário consegue manipulá-los com as setas ↑ e ↓ do teclado.
-    ▪ Caso sinta dificuldade, verifique este exemplo. Lembre-se de que você aprende muito mais implementando o app sozinho, com o apoio do fórum.
-    ▪ As dicas acima são apenas sugestões. Fique à vontade para fazer sua própria implementação, desde que as regras de cálculo sejam implementadas corretamente.
+- Faça com que os inputs sejam do tipo number, delimitando os valores para o mínimo de 0 e máximo de 100. Assim, o usuário consegue manipulá-los com as setas ↑ e ↓ do teclado.
+- Caso sinta dificuldade, verifique este exemplo. Lembre-se de que você aprende muito mais implementando o app sozinho, com o apoio do fórum.
+- As dicas acima são apenas sugestões. Fique à vontade para fazer sua própria implementação, desde que as regras de cálculo sejam implementadas corretamente.
