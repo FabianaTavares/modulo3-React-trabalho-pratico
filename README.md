@@ -15,7 +15,7 @@ Apesar de o curso fornecer o codigo fonte original aos alunos, procurei deixar o
 Para que o backend funcione, execute os seguintes comandos (sem aspas):
 
 1. "yarn install", para instalar as dependências
-2. "yarn start", para "subir" o backend
+2. "yarn start", para "subir" o frontend
 
 ## Ambiente de Produção
 
