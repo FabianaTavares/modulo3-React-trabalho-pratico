@@ -19,7 +19,7 @@ Para que o frontend funcione, execute os seguintes comandos (sem aspas):
 
 ## Ambiente de Produção
 
-Para visualizar o projeto rodando, basta acessar o [link do desafio!](https://fabi-igti-react-trabalho.web.app/)
+Para visualizar o projeto rodando, basta acessar o [este link!](https://fabi-igti-react-trabalho.web.app/)
 
 ## Docker Hub
 
